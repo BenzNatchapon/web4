@@ -1,0 +1,19 @@
+{
+  "name": "work-hw4",
+  "version": "1.0.0",
+  "description": "hw4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "author": "Natchapon Leelapiromkul",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
+
